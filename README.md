@@ -1,2 +1,2 @@
 # To-Do-List-Web-Application
-We put my coding samurai Project Task-2
+We put my Project Coding Samurai Task-2
